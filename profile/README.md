@@ -7,11 +7,12 @@
   </a>
 </div>
 
+
 At MOD, we've learned that real progress is driven by individuals who **dare to go further. But only when they're supported by a team of like-minded people** pushing in the same direction. That's how we believe the world (and construction) can be changed.
 
 So, as a team, we want you to **chase the edge**, even when it feels too far.
 
----
+
 
 ## 🚀 Our Mission
 
@@ -21,7 +22,7 @@ Prefabrication is 50% faster, 20% cheaper and 30% more sustainable than on-site 
 
 Our **award-winning platform** checks the prefab potential of any architectural design and orchestrates the supply chain to significantly increase the prefab share. It is **100% model-based and deeply integrated** into the current design and procurement processes.
 
----
+
 
 ## 🏗️ Why MOD Matters
 
@@ -29,10 +30,10 @@ We **started in 2024** and the reception has been enthusiastic from the get-go. 
 
 Started by **two veteran entrepreneurs** — with both great successes and humbling failures under their belts — we're now expanding the team to take MOD to the next level.
 
----
+
 
 ## 🌍 Join Us
 
 Are you someone who chases the edge like we do? Then this could be your opportunity to join our co-founders on a mission to **unlock industrialized construction for the 95% of construction projects still built the traditional way**.
 
-[Visit our website](https://mod.construction) · [Explore our GitHub](https://github.com/mod-construction)
+[Visit our website](https://mod.construction) · [Explore our GitHub](https://github.com/mod-construction) · [Follow us on LinkedIn](https://www.linkedin.com/company/mod-platform)
