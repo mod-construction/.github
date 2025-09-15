@@ -1,5 +1,12 @@
 # Welcome to MOD
 
+<!-- markdownlint-disable MD033 -->
+<div align="center">
+  <a href="https://mod.construction/" target="_blank">
+<img src="assets/mod-title-image.png" alt="mod-construction"/>
+  </a>
+</div>
+
 At MOD, we've learned that real progress is driven by individuals who **dare to go further. But only when they're supported by a team of like-minded people** pushing in the same direction. That's how we believe the world (and construction) can be changed.
 
 So, as a team, we want you to **chase the edge**, even when it feels too far.
